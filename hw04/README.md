@@ -15,14 +15,14 @@ There will be three types of files:
 2. The next are the scripts corresponding to each problem that calls the function, in the file `scripts`. Corresponding to the numbering of the problems in the problem set, these includes:
   - For Problem 1: None
   - For Problem 2:
-    - `hw4_2(a)` for Problem 2(a).
-    - `hw4_2(b)` for Problem 2(b).
+    - `hw4_2(a).m` for Problem 2(a).
+    - `hw4_2(b).m` for Problem 2(b).
   - For Problem 3: None
   - For Problem 4:
-    - `hw4_4(a)` for Problem 4(a).
-    - `hw4_4(b)` for Problem 4(b).
-    - `hw4_4(c)` for Problem 4(c).
-    - `hw4_4(d)` for Problem 4(d).
+    - `hw4_4(a).m` for Problem 4(a).
+    - `hw4_4(b).m` for Problem 4(b).
+    - `hw4_4(c).m` for Problem 4(c).
+    - `hw4_4(d).m` for Problem 4(d).
   - For Problem 5:
-    - `hw4_5(a)` for Problem 5.
+    - `hw4_5(a).m` for Problem 5.
 3. Lastly, there are the code terminal, plot screenshots, in the file `screenshots`. [ADDFILENAMES]
