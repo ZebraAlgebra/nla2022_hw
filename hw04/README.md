@@ -6,12 +6,12 @@ This repository will contain the code files and the terminal, plot screenshots o
 
 There will be three types of files:
 1. First the iterative linear system solvers required to be implemented by the problems, in the file `solvers`. Corersponding to the name of method implemented in the code file, these includes:
-  - `J.m` (Jacobi)
-  - `GS.m` (Gauss-Seidal)
-  - `GMRES.m`
-  - `CG.m` (conjugate gradient)
-  - `PCG.m` (preconditioned conjugate-gradient)
-  - `GD.m` (gradient descent)
+  - `custom_J.m` (Jacobi)
+  - `custom_GS.m` (Gauss-Seidal)
+  - `custom_GMRES.m` (GMRES)
+  - `custom_CG.m` (conjugate gradient)
+  - `custom_PCG.m` (preconditioned conjugate-gradient)
+  - `custom_GD.m` (gradient descent)
 2. The next are the scripts corresponding to each problem that calls the function, in the file `scripts`. Corresponding to the numbering of the problems in the problem set, these includes:
   - For Problem 1: None
   - For Problem 2:
