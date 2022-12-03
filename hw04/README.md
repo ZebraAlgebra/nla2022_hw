@@ -2,7 +2,7 @@
 
 # 🗎 Files in this repository
 
-This repository will contain the code files and the terminal, plot screenshots of the code files for nla2022 homework 4 (since NTUCOOL site does not allow `.m` files while the homework requires access to the screenshots and code files).
+This repository will contain the code files and the terminal, plot screenshots of the code files for **nla2022 homework 4** (since NTUCOOL site does not allow `.m` files while the homework requires access to the screenshots and code files).
 
 There will be three types of files:
 1. First the iterative linear system solvers required to be implemented by the problems, in the file `solvers`. Corersponding to the name of method implemented in the code file, these includes:
