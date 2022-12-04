@@ -14,6 +14,7 @@ This repository as of 2022.12.04 2155 contains the following files :
   - `custom_CG.m` (conjugate gradient)
   - `custom_PCG.m` (preconditioned conjugate-gradient)
   - `custom_GD.m` (gradient descent)
+
 To run these functions, these have to be included in the file path settings of MATLAB.
 2. The next are the scripts corresponding to each problem that calls the function, in the file `scripts`. Corresponding to the numbering of the problems in the problem set, these includes:
   - For Problem 2:
