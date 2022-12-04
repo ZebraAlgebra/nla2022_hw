@@ -4,7 +4,10 @@
 
 This repository will contain the code files and the terminal, plot screenshots of the code files for **nla2022 homework 4** (since NTUCOOL site does not allow `.m` files while the homework requires access to the screenshots and code files).
 
-There will be three types of files:
+I cannot finish problem 5 before deadline of this assignment, if there are uploads of codes for Problem 5 and functions for hw5, they are all after the deadline; the others listed below are not.
+
+This repository as of 2022.12.04 2155 contains the following files :
+
 1. First the iterative linear system solvers required to be implemented by the problems, in the file `solvers`. Corersponding to the name of method implemented in the code file, these includes:
   - `custom_J.m` (Jacobi)
   - `custom_GS.m` (Gauss-Seidal)
