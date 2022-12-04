@@ -4,7 +4,7 @@
 
 This repository contains the code files and the terminal, plot screenshots of the code files for **nla2022 homework 4** (since NTUCOOL site does not allow `.m` files while the homework requires access to the screenshots and code files).
 
-I cannot finish problem 5 before deadline of this assignment, if there are uploads of scripts or functions for Problem 5, they are all after the deadline; the others listed below are not.
+**Disclaimer** : I didn't finish problem 5 before deadline of this assignment, if there are uploads of scripts or functions for Problem 5, they are all after the deadline; the others listed below are not.
 
 This repository as of 2022.12.04 2155 contains the following files :
 
