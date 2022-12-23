@@ -1,5 +1,5 @@
 function [Y,Z] = newtonNSSqrtm(A, n)
-    %%% Newton sqrtm for square root of A
+    %%% Newton-Shulz for square root of A
         % n: custom iterate counts
         % A: an spd matrix    
     I = eye(size(A, 1));

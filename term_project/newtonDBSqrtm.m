@@ -1,5 +1,5 @@
 function X = newtonDBSqrtm(A, n)
-    %%% Newton sqrtm for square root of A
+    %%% Denman-Beaver for square root of A
         % n: custom iterate counts
         % A: an spd matrix
     X = A; % sample point

@@ -1,5 +1,5 @@
 function X = taylorSqrtm(A, n)
-    %%% Newton sqrtm for square root of A
+    %%% Taylor's method for square root of A
         % n: custom iterate counts
         % A: an spd matrix
     A_fro_norm = norm(A, "fro");
