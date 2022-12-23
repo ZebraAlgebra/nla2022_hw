@@ -1,10 +1,14 @@
 # Term Project Codes
 Title : A Survey on Matrix Square Roots
+
 Uploader : R10221026 Wei Wang
+
+------
 
 The original goal of this project is to study the recent paper https://arxiv.org/pdf/2006.11267.pdf.
 As going through to the references, it turns out that the matrix square root 
 
+------
 This repository contains MATLAB codes to my final report. We have the following code files:
 1. The Schur method: this is the only non-iterative method, which utilizes the Schur decomposition. The native `sqrtm` function by MATLAB is also based on this, except that the question of dealing with matrix square roots of upper triangular matrices can be sped up through divide and conquerish ideas.
 2. The Newton methods and their variants: there are many formulations and variants of them, here we will only implemented the following:
@@ -18,4 +22,3 @@ This repository contains MATLAB codes to my final report. We have the following 
 4. The contour integral quadrature approach:
     * The original approach.
     * The recent approach using shifted MINRES.
-
