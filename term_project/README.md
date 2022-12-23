@@ -18,7 +18,7 @@ This repository contains MATLAB codes to my final report. We have the following 
     * The Newton-Schulz method: this is a popular method for computing the matrix sign function, and only involves matrix multiplications.
 3. The polynomial approximation methods:
     * The Taylor expansion approach: this method only involves basic matrix products and additions; however, the convergence rate is not as good.
-    * The Pade approximants approach: this method is also a polynomial approximation approach; although it has better convergence rate than the Taylor approach, as the algorithm involves multiplication by an inverse of a matrix, each step is more costly.
-4. The contour integral quadrature approach:
+    * The Pade approximants approach: this method is also a polynomial approximation approach; although it has better convergence rate than the Taylor approach, as the algorithm involves multiplication by an inverse of a matrix, each step is more costly. (The result of this is still bad)
+4. The contour integral quadrature approach: (I am not able to finish this yet)
     * The original approach.
     * The recent approach using shifted MINRES.
